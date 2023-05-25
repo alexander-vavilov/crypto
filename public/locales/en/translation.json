@@ -1,0 +1,28 @@
+{
+  "home": {
+    "table": {
+      "head": {
+        "coin": "Coin",
+        "price": "Price"
+      }
+    }
+  },
+  "coin": {
+    "rank": "Rank",
+    "stats": {
+      "price": "Price",
+      "market_cap": "Market cap",
+      "total_volume": "Total volume"
+    },
+    "chart": {
+      "prices": "Price",
+      "market_caps": "Market cap",
+      "total_volumes": "Total volume"
+    }
+  },
+  "time": {
+    "hour": "H",
+    "day": "D",
+    "year": "Y"
+  }
+}

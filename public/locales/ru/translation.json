@@ -1,0 +1,28 @@
+{
+  "home": {
+    "table": {
+      "head": {
+        "coin": "Монета",
+        "price": "Цена"
+      }
+    }
+  },
+  "coin": {
+    "rank": "Ранг",
+    "stats": {
+      "price": "Цена",
+      "market_cap": "Капитализация",
+      "total_volume": "Объем торгов"
+    },
+    "chart": {
+      "prices": "Цена",
+      "market_caps": "Рыночная капитализация",
+      "total_volumes": "Общий объем торгов"
+    }
+  },
+  "time": {
+    "hour": "Ч",
+    "day": "Д",
+    "year": "Г"
+  }
+}
